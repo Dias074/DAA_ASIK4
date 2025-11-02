@@ -40,9 +40,9 @@ The program can:
 
 ---
 
-##  How It Works
+  How It Works
 
-###  1. Node-Duration Model (default)
+  1. Node-Duration Model (default)
 - Reads JSON like:
 ```json
 {
